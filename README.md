@@ -1,16 +1,13 @@
-## Hi there 👋
+## my one header 👋
 
-<!--
-**lfitz1687/lfitz1687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. Here is the other paragraph. 
+
+here is a list: 
+1. Item 1
+2. Item 2
+3. Item 3
+
+[text to display](https://www.example.com)
