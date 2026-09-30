@@ -1,4 +1,4 @@
-## my one headrer 👋
+## my one header 👋
 
 Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. Here is one of my paragraphs. 
 
@@ -10,4 +10,4 @@ here is a list:
 2. Item 2
 3. Item 3
 
-[text to dispnlay](https://www.example.com)
+[text to display](https://www.example.com)
